@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alia-mehdi
 - 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning how to clean, wrangle, and showcase data in an aestehtic way
+- 🌱 I’m currently learning how to clean, wrangle, and showcase data in an aesthetic way
 - 💞️ I’m looking to collaborate on data projects, shoot me a message!
 - 📫 How to reach me -> aliamehdi588@gmail.com or through LinkedIn! 
 
